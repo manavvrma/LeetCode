@@ -1,6 +1,6 @@
 ## 217. Contains Duplicate
 
-'''java
+```java
 public class Solution {
     public static boolean containsDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
