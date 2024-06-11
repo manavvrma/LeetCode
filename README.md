@@ -1,2 +1,1 @@
-# LeetCode
-100 Day LeetCode challenge
+# NeetCode - 150
